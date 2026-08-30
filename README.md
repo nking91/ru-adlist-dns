@@ -15,3 +15,4 @@
 ## Подключение в AdGuard DNS
 
 Пользовательские списки блокировки → добавить URL:
+https://raw.githubusercontent.com/nking91/ru-adlist-dns/main/ru-adlist-dns.txt
