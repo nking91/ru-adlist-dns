@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Компактный RU AdList для AdGuard DNS (лимит польз. правил ~1000)."""
-from _future_ import annotations
+from __future__ import annotations
 import re
 import urllib.request
 from pathlib import Path
