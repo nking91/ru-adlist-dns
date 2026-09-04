@@ -2,7 +2,7 @@
 ! Источник: https://github.com/easylist/ruadlist
 ! Исключений: 226, блокировок: 724, итого: 950
 ! Приоритет источников блокировки:
-!   adservers: доступно 7575, взято 724
+!   adservers: доступно 7579, взято 724
 !   general_block: 0 (бюджет исчерпан)
 !   thirdparty: 0 (бюджет исчерпан)
 
@@ -939,6 +939,7 @@
 ||bestssrv.com^
 ||bestwaygo.ru^
 ||beta.mediafort.ru^
+||betadw.com^
 ||betamedia.biz^
 ||betamountwo.com^
 ||betimogolef.com^
@@ -955,4 +956,3 @@
 ||bghost.ru^
 ||bgkecb.com^
 ||bgxmq.com^
-||bgynsr.com^
