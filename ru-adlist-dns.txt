@@ -2,7 +2,7 @@
 ! Источник: https://github.com/easylist/ruadlist
 ! Исключений: 224, блокировок: 726, итого: 950
 ! Приоритет источников блокировки:
-!   adservers: доступно 7586, взято 726
+!   adservers: доступно 7587, взято 726
 !   general_block: 0 (бюджет исчерпан)
 !   thirdparty: 0 (бюджет исчерпан)
 
@@ -581,6 +581,7 @@
 ||aj2392.online^
 ||aj2517.bid^
 ||aj2635.bid^
+||aj2663.bid^
 ||aj2738.top^
 ||aj3081.top^
 ||ajaxbig.ru^
@@ -955,4 +956,3 @@
 ||bgkecb.com^
 ||bgxmq.com^
 ||bgynsr.com^
-||bhfadjicddhbjaejebb.ru^
