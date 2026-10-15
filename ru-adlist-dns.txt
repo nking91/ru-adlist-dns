@@ -2,7 +2,7 @@
 ! Источник: https://github.com/easylist/ruadlist
 ! Исключений: 224, блокировок: 726, итого: 950
 ! Приоритет источников блокировки:
-!   adservers: доступно 7568, взято 726
+!   adservers: доступно 7572, взято 726
 !   general_block: 0 (бюджет исчерпан)
 !   thirdparty: 0 (бюджет исчерпан)
 
@@ -448,6 +448,7 @@
 ||adsconex.com^
 ||adseedtech.com^
 ||adselector.ru^
+||adsensei.ai^
 ||adservob.com^
 ||adservone.com^
 ||adsfin.pro^
@@ -955,4 +956,3 @@
 ||bghost.ru^
 ||bgkecb.com^
 ||bgxmq.com^
-||bgynsr.com^
