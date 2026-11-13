@@ -1,8 +1,8 @@
 ! RU AdList - компактная версия для AdGuard DNS (лимит 950)
 ! Источник: https://github.com/easylist/ruadlist
-! Исключений: 224, блокировок: 726, итого: 950
+! Исключений: 223, блокировок: 727, итого: 950
 ! Приоритет источников блокировки:
-!   adservers: доступно 7575, взято 726
+!   adservers: доступно 7575, взято 727
 !   general_block: 0 (бюджет исчерпан)
 !   thirdparty: 0 (бюджет исчерпан)
 
@@ -101,7 +101,6 @@
 @@||gt-advertise.ru^
 @@||gtavicecity.ru^
 @@||gwss.ru^
-@@||hcdn.online^
 @@||holder.com.ua^
 @@||html-template.ru^
 @@||ictv.ua^
@@ -956,3 +955,4 @@
 ||bggcdn.ru^
 ||bghost.ru^
 ||bgkecb.com^
+||bgxmq.com^
